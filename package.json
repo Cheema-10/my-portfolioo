@@ -1,6 +1,6 @@
 {
-  "name": "my-portfolio",
-  "homepage": "https://Cheema-10.github.io/my-portfolio",
+  "name": "my-portfolioo",
+"homepage": "https://Cheema-10.github.io/my-portfolioo",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -19,12 +19,12 @@
     "react-typical": "^0.1.3",
     "web-vitals": "^2.1.4"
   },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
-  },
+ "scripts": {
+  "start": "react-scripts start",
+  "build": "react-scripts build",
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build"
+},
   "eslintConfig": {
     "extends": [
       "react-app",
