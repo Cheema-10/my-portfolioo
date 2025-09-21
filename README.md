@@ -1,7 +1,7 @@
 
 # Jaskaran Singh Cheema — Portfolio
 
-Live demo: https://Cheema-10.github.io/my-portfolio/
+Live demo: https://Cheema-10.github.io/my-portfolioo/
 
 ![Portfolio Screenshot](public/portfolio-screenshot.png)
 
